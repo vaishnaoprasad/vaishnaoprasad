@@ -8,17 +8,24 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaishnaoprasad" alt="vaishnaoprasad" /></a> </p>
 
 <div>
-  <label>contact -</label> <p>**+917892813670** | **vaishnao97@gmail.com**</p>
+  <label color="silver">contact -</label> 
+  <p>+917892813670</p> 
+  <p>vaishnao97@gmail.com</p>
 </div>
 <div>
 <div>
-  <label>working experiences -</label> <p>**Product based on EV Charging Station & Cattle's Collar Health Monitor**</p>
+  <label>working experiences -</label> 
+  <p>Product based on EV Charging Station</p> 
+  <p>Product based on Cattle's Collar Health Monitor</p>
 </div>
 <div>
-  <label>taking course of -</label> <p>**NodeJS - The Complete Guide by Maximilian Schwarzmuller**</p>
+  <label>taking course of -</label> 
+  <p>NodeJS - The Complete Guide by Maximilian Schwarzmuller</p>
 </div>
 <div>
-  <label>could help you in -</label> <p>**Web Development, Android Development**</p>
+  <label>could help you in -</label> 
+  <p>Web Development</p>
+  <p>Android Development</p>
 </div>
 
 <h3 align="left">I'm available in:</h3>
