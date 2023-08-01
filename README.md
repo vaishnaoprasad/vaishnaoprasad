@@ -41,3 +41,8 @@
   <div>Web Development</div>
   <div>Android Development</div>
 </div>
+
+
+Specialized in - 
+Web Development
+Android Development
