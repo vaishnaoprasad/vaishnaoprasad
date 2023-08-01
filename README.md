@@ -1,4 +1,4 @@
-[<h2 align="center"> Myself Vaishnao, </h2>
+<h2 align="center"> Myself Vaishnao, </h2>
 <h5 align="center"> A web/android developer from Tuticorin, Tamil Nadu. Currently settled in Bangalore, Karnataka. </h5>
 <h5 align="center"> School education (Physics, Chemistry  & Mathematics) done from Kendriya Vidyalaya A.F.S </h5>
 <h5 align="center"> B.Tech in Information Science from Brindavan College of Engineering </h5>
@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaishnaoprasad" alt="vaishnaoprasad" /></a> </p>
 
 <div>
-  <label color="silver">contact -</label> 
+  <label style="color= 'silver'; ">contact -</label> 
   <p>+917892813670</p> 
   <p>vaishnao97@gmail.com</p>
 </div>
@@ -40,4 +40,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishnaoprasad&show_icons=true&locale=en&layout=compact" alt="vaishnaoprasad" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishnaoprasad&show_icons=true&locale=en" alt="vaishnaoprasad" /></p>
-](url)
+
