@@ -3,12 +3,8 @@
 <h5 align="center"> School education (Physics, Chemistry  & Mathematics) done from Kendriya Vidyalaya A.F.S </h5>
 <h5 align="center"> B.Tech in Information Science from Brindavan College of Engineering </h5>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnaoprasad&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnaoprasad" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaishnaoprasad" alt="vaishnaoprasad" /></a> </p>
-
 <div>
-  <label style="color= 'silver'; ">contact -</label> 
+  <label style="color: red;">contact -</label> 
   <p>+917892813670</p> 
   <p>vaishnao97@gmail.com</p>
 </div>
