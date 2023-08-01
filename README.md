@@ -1,10 +1,17 @@
 <div align="left"> Myself Vaishnao, </div>
+============================
+
 <div align="left"> Web / Android Developer </div>
 <div align="left">
   <a href="https://docs.google.com/document/d/e/2PACX-1vSCZVQDxNndVKnS1GG58dNtaC-C7EOfH0jymEkE9Nbvu2WqXA25BDULk_RpXA1gmvui3_ALXH-WRSuc/pub">
   <label>Checkout Resume</label>
   </a>
 </div>
+
+<a href="https://www.linkedin.com/in/vaishnao-prasad-90963116b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7VuykM38QCiH54raBLKMEA%3D%3D"><img
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+/></a><a href="https://www.github.com/vaishnaoprasad" target="_blank" rel="noreferrer"><img
+src="" /></a>
 
 <h3 align="left">I'm available in:</h3>
 <p align="left">
