@@ -23,17 +23,17 @@
 
 <div>
   <h3>working experiences -</h3> 
-  <p>Product based on EV Charging Station</p> 
-  <p>Product based on Cattle's Collar Health Monitor</p>
+  <div>Product based on EV Charging Station</div> 
+  <div>Product based on Cattle's Collar Health Monitor</div>
 </div>
 
 <div>
   <h3>taking course of -</h3> 
-  <p>NodeJS - The Complete Guide by Maximilian Schwarzmuller</p>
+  <div>NodeJS - The Complete Guide by Maximilian Schwarzmuller</div>
 </div>
 
 <div>
   <h3>could help you in -</h3> 
-  <p>Web Development</p>
-  <p>Android Development</p>
+  <div>Web Development</div>
+  <div>Android Development</div>
 </div>
