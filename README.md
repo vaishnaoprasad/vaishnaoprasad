@@ -6,7 +6,7 @@
 </p>
 
 
-<h5 align="left">I can speak & understand hindi, english, tamil and little bit of kannada.</h5>
+<div align="left">I can speak & understand hindi, english, tamil and little bit of kannada.</div>
 <h5 align="left"> Web / Android Developer from Tuticorin, Tamil Nadu. Currently settled in Bangalore, Karnataka. </h5>
 <h5 align="left"> School education (Physics, Chemistry  & Mathematics) done from Kendriya Vidyalaya A.F.S </h5>
 <h5 align="left"> B.Tech in Information Science from Brindavan College of Engineering </h5>
