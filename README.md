@@ -3,7 +3,7 @@
 <div align="left"> Web / Android Developer </div>
 <div align="left">
   <a href="https://docs.google.com/document/d/e/2PACX-1vSCZVQDxNndVKnS1GG58dNtaC-C7EOfH0jymEkE9Nbvu2WqXA25BDULk_RpXA1gmvui3_ALXH-WRSuc/pub">
-  <label>Checkout my Resume</label>
+  <label>Checkout Resume</label>
   </a>
 </div>
 
