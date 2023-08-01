@@ -16,7 +16,7 @@
 <h1>SAMPLE OF WORK WILL BE UPLOADED SOON !</h1>
 
 <div>
-  <label>contact -</label> 
+  <h3>contact -</h3> 
   <div>+917892813670</div> 
   <div>vaishnao97@gmail.com</div>
 </div>
