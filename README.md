@@ -4,7 +4,7 @@
 <h5 align="center"> B.Tech in Information Science from Brindavan College of Engineering </h5>
 
 <div>
-  <label style="color: red;">contact -</label> 
+  <label style="color: 'red';">contact -</label> 
   <p>+917892813670</p> 
   <p>vaishnao97@gmail.com</p>
 </div>
