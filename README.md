@@ -1,3 +1,4 @@
+<p><img src="https://cdn.sanity.io/images/8edntncj/production/57627e51b289a1f15b09750d32f4e1abad78fe4a-1200x630.png" alt="my-profile" title="my-profile" /></p>
 <h3 align="left"> Myself Vaishnao, </h3>
 <div align="left"> Web / Android Developer </div>
 <div align="left">
