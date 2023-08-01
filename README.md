@@ -17,24 +17,24 @@
 <h1>SAMPLE OF WORK WILL BE UPLOADED SOON !</h1>
 
 <div>
-  <h3>contact -</h3> 
+  <h3>Contact Info -</h3> 
   <div>+917892813670</div> 
   <div>vaishnao97@gmail.com</div>
 </div>
 
 <div>
-  <h3>working experiences -</h3> 
+  <h3>Working Experiences -</h3> 
   <div>Product based on EV Charging Station</div> 
   <div>Product based on Cattle's Collar Health Monitor</div>
 </div>
 
 <div>
-  <h3>taking course of -</h3> 
+  <h3>Taking Course -</h3> 
   <div>NodeJS - The Complete Guide by Maximilian Schwarzmuller</div>
 </div>
 
 <div>
-  <h3>could help you in -</h3> 
+  <h3>Specialized in -</h3> 
   <div>Web Development</div>
   <div>Android Development</div>
 </div>
