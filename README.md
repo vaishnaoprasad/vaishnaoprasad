@@ -2,10 +2,6 @@
 <h3 align="left">I'm available in:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vaishnao-prasad-90963116b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7VuykM38QCiH54raBLKMEA%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vaishnao-prasad-90963116b" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vaishnaoprasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vaishnaoprasad" height="30" width="40" /></a>
-</p>
-
-
 <div align="left">I can speak & understand hindi, english, tamil and little bit of kannada.</div>
 <div align="left"> Web / Android Developer from Tuticorin, Tamil Nadu. Currently settled in Bangalore, Karnataka. </div>
 <div align="left"> School education (Physics, Chemistry  & Mathematics) done from Kendriya Vidyalaya A.F.S </div>
