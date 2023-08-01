@@ -19,30 +19,3 @@
 <p align="center"> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> . . . </p>
 <p align="right">are some of my favourite tools & technologies</p>
 
-<div>
-  <h3>Contact Info -</h3> 
-  <div>+917892813670</div> 
-  <div>vaishnao97@gmail.com</div>
-</div>
-
-<div>
-  <h3>Working Experiences -</h3> 
-  <div>Product based on EV Charging Station</div> 
-  <div>Product based on Cattle's Collar Health Monitor</div>
-</div>
-
-<div>
-  <h3>Taking Course -</h3> 
-  <div>NodeJS - The Complete Guide by Maximilian Schwarzmuller</div>
-</div>
-
-<div>
-  <h3>Specialized in -</h3> 
-  <div>Web Development</div>
-  <div>Android Development</div>
-</div>
-
-
-Specialized in - 
-Web Development
-Android Development
