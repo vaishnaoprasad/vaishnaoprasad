@@ -7,8 +7,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaishnaoprasad" alt="vaishnaoprasad" /></a> </p>
 
-<label>contact-</label> 
+<div style="display: flex; align-items: center; justify-content: space-between;">
+<label>contact-</label>
+<p>
 **+917892813670** | **vaishnao97@gmail.com**
+</p>
+</div>
 working experiences **Product based on EV Charging Station & Cattle's Collar Health Monitor**
 taking course of **NodeJS - The Complete Guide by Maximilian Schwarzmuller**
 could help you in **Web Development, Android Development**
