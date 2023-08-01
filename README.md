@@ -13,6 +13,8 @@
 <a href="https://www.hackerrank.com/vaishnaoprasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vaishnaoprasad" height="30" width="40" /></a>
 </p>
 
+<h1>WILL TRANSFER MY PROJECTS TO SHOW CASE HERE SOON !</h1>
+
 <div>
   <h3>contact -</h3> 
   <label>+917892813670</label> 
