@@ -17,8 +17,12 @@
 
 <div>
   <h3>contact -</h3> 
+  <span>
   <label>+917892813670</label> 
+  </span>
+  <span>
   <label>vaishnao97@gmail.com</label>
+  </span>
 </div>
 
 <div>
