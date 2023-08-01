@@ -8,7 +8,7 @@
 <div align="left"> B.Tech in Information Science from Brindavan College of Engineering </div>
 <div align="left">
   <a href="https://docs.google.com/document/d/e/2PACX-1vSCZVQDxNndVKnS1GG58dNtaC-C7EOfH0jymEkE9Nbvu2WqXA25BDULk_RpXA1gmvui3_ALXH-WRSuc/pub">
-  <h3>Checkout my Resume</h3>
+  <p>Checkout my Resume</p>
   </a>
 </div>
 
