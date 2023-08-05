@@ -28,7 +28,7 @@
     <img src="https://github.com/vaishnaoprasad/assets/blob/main/Screenshot%20from%202023-08-05%2016-20-22.png" alt="worksample" width="20%" height="150"/> </p>
 
 <video controls>
-<source src="https://raw.githubusercontent.com/vaishnaoprasad/assets/main/Screencast%20from%2005-08-23%2010_22_22%20PM%20IST.mp4">
+<source src="https://drive.google.com/file/d/1DZ298jeaWgt-7XelOXxJLxuR_w-ibEP8/view?usp=sharing">
     Your browser does not support the video tag.
 </video>
     
