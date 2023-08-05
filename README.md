@@ -26,6 +26,4 @@
    <img src="https://github.com/vaishnaoprasad/assets/blob/main/Screenshot%20from%202023-08-05%2016-20-22.png" alt="worksample" width="50%" height="250"/>
     <img src="https://github.com/vaishnaoprasad/assets/blob/main/Screenshot%20from%202023-08-05%2016-20-22.png" alt="worksample" width="20%" height="150"/> </p>
 
-<p align="center">
-  [Screencast from 05-08-23 10:22:22 PM IST.webm](https://github.com/vaishnaoprasad/vaishnaoprasad/assets/72007797/f8f806f9-e35a-4558-839b-1b859042909c)
-</p>
+[Screencast from 05-08-23 10:22:22 PM IST.webm](https://github.com/vaishnaoprasad/vaishnaoprasad/assets/72007797/f8f806f9-e35a-4558-839b-1b859042909c)
