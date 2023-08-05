@@ -30,5 +30,5 @@
 <hr>  
 <p align="center"> 
   <img src="https://github.com/vaishnaoprasad/assets/blob/main/Screenshot%20from%202023-08-05%2016-21-53.png" alt="worksample" width="25%" height="150"/>
-   <img src="https://github.com/vaishnaoprasad/assets/blob/main/Screenshot%20from%202023-08-05%2016-20-22.png" alt="worksample" width="40%" height="250"/>
+   <img src="https://github.com/vaishnaoprasad/assets/blob/main/Screenshot%20from%202023-08-05%2016-20-22.png" alt="worksample" width="40%" height="200"/>
     <img src="https://github.com/vaishnaoprasad/assets/blob/main/Screenshot%20from%202023-08-05%2016-20-40.png" alt="worksample" width="25%" height="150"/> </p>
