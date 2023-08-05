@@ -20,8 +20,9 @@
 <p align="right">are some of my favourite tools & technologies</p>
 
 
+<h3 align="left">My Work Samples</h3>
+<p align="left"> Flixdrop Technology Pvt. Ltd. </p>
 <p align="center"> 
-  <img src="https://github.com/vaishnaoprasad/assets/blob/main/Screenshot%20from%202023-08-05%2016-20-22.png" alt="worksample" width="33.33%" height="200"/> </p>
-   <img src="https://github.com/vaishnaoprasad/assets/blob/main/Screenshot%20from%202023-08-05%2016-20-22.png" alt="worksample" width="33.33%" height="200"/> </p>
+  <img src="https://github.com/vaishnaoprasad/assets/blob/main/Screenshot%20from%202023-08-05%2016-20-22.png" alt="worksample" width="33.33%" height="200"/>
+   <img src="https://github.com/vaishnaoprasad/assets/blob/main/Screenshot%20from%202023-08-05%2016-20-22.png" alt="worksample" width="33.33%" height="200"/>
     <img src="https://github.com/vaishnaoprasad/assets/blob/main/Screenshot%20from%202023-08-05%2016-20-22.png" alt="worksample" width="33.33%" height="200"/> </p>
-<p align="right">
