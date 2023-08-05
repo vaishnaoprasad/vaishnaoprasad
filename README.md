@@ -23,6 +23,6 @@
 <h3 align="left">My Work Samples</h3>
 <p align="left"> Flixdrop Technology Pvt. Ltd. </p>
 <p align="center"> 
-  <img src="https://github.com/vaishnaoprasad/assets/blob/main/Screenshot%20from%202023-08-05%2016-20-22.png" alt="worksample" width="30%" height="200"/>
-   <img src="https://github.com/vaishnaoprasad/assets/blob/main/Screenshot%20from%202023-08-05%2016-20-22.png" alt="worksample" width="30%" height="200"/>
-    <img src="https://github.com/vaishnaoprasad/assets/blob/main/Screenshot%20from%202023-08-05%2016-20-22.png" alt="worksample" width="30%" height="200"/> </p>
+  <img src="https://github.com/vaishnaoprasad/assets/blob/main/Screenshot%20from%202023-08-05%2016-21-53.png" alt="worksample" width="25%" height="150"/>
+   <img src="https://github.com/vaishnaoprasad/assets/blob/main/Screenshot%20from%202023-08-05%2016-20-22.png" alt="worksample" width="50%" height="250"/>
+    <img src="https://github.com/vaishnaoprasad/assets/blob/main/Screenshot%20from%202023-08-05%2016-20-22.png" alt="worksample" width="25%" height="150"/> </p>
