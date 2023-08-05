@@ -29,8 +29,6 @@
     
 https://raw.githubusercontent.com/vaishnaoprasad/blob/main/Screencast%20from%2005-08-23%2010_22_22%20PM%20IST.mp4
 
-https://raw.githubusercontent.com/assets/blob/main/Screencast%20from%2005-08-23%2010_22_22%20PM%20IST.mp4
-
-https://drive.google.com/file/d/1DZ298jeaWgt-7XelOXxJLxuR_w-ibEP8/view?usp=sharing
+https://raw.githubusercontent.com/vaishnaoprasad/assets/main/Screencast%20from%2005-08-23%2010_22_22%20PM%20IST.mp4
 
 https://raw.githubusercontent.com/username/repository/branch/path/to/video.webm
