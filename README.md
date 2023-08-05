@@ -27,4 +27,4 @@
    <img src="https://github.com/vaishnaoprasad/assets/blob/main/Screenshot%20from%202023-08-05%2016-20-22.png" alt="worksample" width="50%" height="250"/>
     <img src="https://github.com/vaishnaoprasad/assets/blob/main/Screenshot%20from%202023-08-05%2016-20-22.png" alt="worksample" width="20%" height="150"/> </p>
 
-https://github.com/vaishnaoprasad/assets/blob/main/Screencast%20from%2005-08-23%2010:22:22%20PM%20IST.webm
+https://github.com/vaishnaoprasad/assets/blob/main/Screencast%20from%2005-08-23%2010_22_22%20PM%20IST.mp4
