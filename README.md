@@ -26,6 +26,8 @@
    <img src="https://github.com/vaishnaoprasad/assets/blob/main/Screenshot%20from%202023-08-05%2016-20-22.png" alt="worksample" width="50%" height="250"/>
     <img src="https://github.com/vaishnaoprasad/assets/blob/main/Screenshot%20from%202023-08-05%2016-20-22.png" alt="worksample" width="20%" height="150"/> </p>
 
-<iframe width="729" height="410" src="https://www.youtube.com/embed/_PgiFHi8EXI" title="Add Project Image or Screenshot to GitHub Repository | Upload Videos to GitHub | Hindi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<div align="center" width="50%">
+  
 [Screencast from 05-08-23 10:22:22 PM IST.webm](https://github.com/vaishnaoprasad/vaishnaoprasad/assets/72007797/f8f806f9-e35a-4558-839b-1b859042909c)
+
+</div>
