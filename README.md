@@ -27,13 +27,8 @@
   [Android_Application_Sample.webm](https://github.com/vaishnaoprasad/vaishnaoprasad/assets/72007797/c4d36c76-d496-4881-ab94-2e95b7c7b8f6)
 
 </div>
-
-<div align="center">
-  
+<hr>  
 <p align="center"> 
   <img src="https://github.com/vaishnaoprasad/assets/blob/main/Screenshot%20from%202023-08-05%2016-21-53.png" alt="worksample" width="20%" height="150"/>
    <img src="https://github.com/vaishnaoprasad/assets/blob/main/Screenshot%20from%202023-08-05%2016-20-22.png" alt="worksample" width="50%" height="250"/>
     <img src="https://github.com/vaishnaoprasad/assets/blob/main/Screenshot%20from%202023-08-05%2016-20-22.png" alt="worksample" width="20%" height="150"/> </p>
-
-</div>
-
