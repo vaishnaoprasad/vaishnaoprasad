@@ -32,3 +32,8 @@
   <img align="center" src="https://github.com/vaishnaoprasad/assets/blob/main/Screenshot%20from%202023-08-05%2016-21-53.png" alt="worksample" width="25%" height="150"/>
    <img align="center" src="https://github.com/vaishnaoprasad/assets/blob/main/Screenshot%20from%202023-08-05%2016-20-22.png" alt="worksample" width="40%" height="200"/>
     <img align="center" src="https://github.com/vaishnaoprasad/assets/blob/main/Screenshot%20from%202023-08-05%2016-20-40.png" alt="worksample" width="25%" height="150"/> </p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnaoprasad&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnaoprasad" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaishnaoprasad" alt="vaishnaoprasad" /></a> </p>
