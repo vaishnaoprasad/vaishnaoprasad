@@ -1,8 +1,8 @@
 <div align="left"> Myself Vaishnao, </div>
-<div align="left"> Multi-Platform Application Developer | Building Android, Web & Desktop Apps with Ionic, Angular, Capacitor.js, and Electron.js </div>
+<div align="left"> Multi-Platform Application Developer | Building Android, Web & Desktop Apps with Ionic, Angular, Capacitor.js .</div>
 <div align="left">
   <a href="https://docs.google.com/document/d/e/2PACX-1vSCZVQDxNndVKnS1GG58dNtaC-C7EOfH0jymEkE9Nbvu2WqXA25BDULk_RpXA1gmvui3_ALXH-WRSuc/pub">
-  <label>Checkout Resume</label>
+  <label>My Resume</label>
   </a>
 </div>
 <hr>
