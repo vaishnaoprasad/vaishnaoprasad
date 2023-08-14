@@ -22,6 +22,8 @@
 <h3 align="left">My Work Samples</h3>
 <p align="left"> Flixdrop Technology Pvt. Ltd. </p>
 
+<hr>
+
 <p align="center"> 
   <img align="center" src="https://github.com/vaishnaoprasad/assets/blob/763cb51e39f64a1a4f43effb356e9e99b0875a8d/Screenshot%20from%202023-08-14%2020-46-05.png" alt="worksample" width="30%" height="80%"/>
 <img align="center" src="https://github.com/vaishnaoprasad/assets/blob/763cb51e39f64a1a4f43effb356e9e99b0875a8d/Screenshot%20from%202023-08-14%2020-46-30.png" alt="worksample" width="30%" height="100%"/>
@@ -35,5 +37,6 @@
 [Web_Application_Sample.webm](https://github.com/vaishnaoprasad/vaishnaoprasad/assets/72007797/ef6a1c6e-4820-4577-b946-d3c0eabe831d)
 
 </div>
+
 <hr>  
 
