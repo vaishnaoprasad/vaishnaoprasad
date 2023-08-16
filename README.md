@@ -5,7 +5,9 @@
   <label>My Resume</label>
   </a>
 </div>
+
 <hr>
+
 <h3 align="left">I'm available in:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vaishnao-prasad-90963116b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7VuykM38QCiH54raBLKMEA%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vaishnao-prasad-90963116b" height="30" width="40" /></a>
@@ -22,7 +24,11 @@
 <h3 align="left">My Work Samples</h3>
 <p align="left"> Flixdrop Technology Pvt. Ltd. </p>
 
+
+
 <hr>
+
+
 
 <p align="center"> 
 <img align="center" src="https://github.com/vaishnaoprasad/assets/blob/763cb51e39f64a1a4f43effb356e9e99b0875a8d/Screenshot%20from%202023-08-14%2020-46-05.png" alt="worksample" width="30%" height="75%"/>
@@ -30,7 +36,11 @@
 <img align="center" src="https://github.com/vaishnaoprasad/assets/blob/763cb51e39f64a1a4f43effb356e9e99b0875a8d/Screenshot%20from%202023-08-14%2020-46-44.png" alt="worksample" width="30%" height="75%"/>
 </p>
 
+
+
 <hr>
+
+
 
 <div align="center" width="50%">
   
@@ -38,7 +48,11 @@
 
 </div>
 
+
+
 <hr>  
+
+
 
 <p align="center"> 
 <img align="center" src="https://github.com/vaishnaoprasad/assets/blob/38614d93244fc302020158f3eebc1bee5147ece4/Screenshot%20from%202023-08-15%2014-20-19.png" alt="worksample" width="30%" height="75%"/>
