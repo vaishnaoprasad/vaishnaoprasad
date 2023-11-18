@@ -42,18 +42,6 @@
 <br>
 
 
-<div align="center" width="50%">
-  
-[Web_Application_Sample.webm](https://github.com/vaishnaoprasad/vaishnaoprasad/assets/72007797/ef6a1c6e-4820-4577-b946-d3c0eabe831d)
-
-</div>
-
-
-<br>
-<hr>  
-<br>
-
-
 <p align="center"> 
 <img align="center" src="https://github.com/vaishnaoprasad/assets/blob/38614d93244fc302020158f3eebc1bee5147ece4/Screenshot%20from%202023-08-15%2014-20-19.png" alt="worksample" width="30%" height="75%"/>
 <img align="center" src="https://github.com/vaishnaoprasad/assets/blob/38614d93244fc302020158f3eebc1bee5147ece4/Screenshot%20from%202023-08-15%2014-19-46.png" alt="worksample" width="30%" height="100%"/>
