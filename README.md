@@ -42,9 +42,14 @@
 <hr>
 <br>
 
-
-<p align="center"> 
+<p align="start"> 
 <img align="center" src="https://github.com/vaishnaoprasad/assets/blob/38614d93244fc302020158f3eebc1bee5147ece4/Screenshot%20from%202023-08-15%2014-20-19.png" alt="worksample" width="30%" height="75%"/>
+</p>
+<br>
+<p align="center"> 
 <img align="center" src="https://github.com/vaishnaoprasad/assets/blob/38614d93244fc302020158f3eebc1bee5147ece4/Screenshot%20from%202023-08-15%2014-19-46.png" alt="worksample" width="30%" height="100%"/>
+</p>
+<br>
+<p align="end"> 
 <img align="center" src="https://github.com/vaishnaoprasad/assets/blob/38614d93244fc302020158f3eebc1bee5147ece4/Screenshot%20from%202023-08-15%2023-08-10.png" alt="worksample" width="30%" height="75%"/>
 </p>
