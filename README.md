@@ -20,7 +20,6 @@
 
 <p align="center"> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> . . . </p>
 <h3 align="left">My Work Samples</h3>
-<p align="left"> Flixdrop Technology Pvt. Ltd. </p>
 
 
 
