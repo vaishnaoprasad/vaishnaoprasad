@@ -28,12 +28,14 @@
 
 <p align="center"> 
 <img align="center" src="https://github.com/vaishnaoprasad/assets/blob/763cb51e39f64a1a4f43effb356e9e99b0875a8d/Screenshot%20from%202023-08-14%2020-46-05.png" alt="worksample" width="30%" height="75%"/>
-<img align="center" src="https://github.com/vaishnaoprasad/assets/blob/763cb51e39f64a1a4f43effb356e9e99b0875a8d/Screenshot%20from%202023-08-14%2020-46-30.png" alt="worksample" width="30%" height="100%"/>
-<img align="center" src="https://github.com/vaishnaoprasad/assets/blob/763cb51e39f64a1a4f43effb356e9e99b0875a8d/Screenshot%20from%202023-08-14%2020-46-44.png" alt="worksample" width="30%" height="75%"/>
 </p>
-
+<br>
 <p align="center"> 
 <img align="center" src="https://github.com/vaishnaoprasad/assets/blob/763cb51e39f64a1a4f43effb356e9e99b0875a8d/Screenshot%20from%202023-08-14%2020-46-30.png" alt="worksample" width="30%" height="100%"/>
+</p>
+<br>
+<p align="center"> 
+<img align="center" src="https://github.com/vaishnaoprasad/assets/blob/763cb51e39f64a1a4f43effb356e9e99b0875a8d/Screenshot%20from%202023-08-14%2020-46-44.png" alt="worksample" width="30%" height="75%"/>
 </p>
 
 <br>
