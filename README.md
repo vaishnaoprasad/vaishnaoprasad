@@ -1,5 +1,5 @@
 <div align="left"> Hello, I'm Vaishnao, </div>
-<div align="left"> Multi-Platform Application Developer | Android, Web & Desktop Apps with Ionic, Angular, Capacitor.js & Electron.js</div>
+<div align="left"> Multi-Platform Application Developer | Android, Web & Desktop Application Developer</div>
 <div align="left">
   <a href="https://docs.google.com/document/d/e/2PACX-1vSCZVQDxNndVKnS1GG58dNtaC-C7EOfH0jymEkE9Nbvu2WqXA25BDULk_RpXA1gmvui3_ALXH-WRSuc/pub">
   <label>My Resume</label>
