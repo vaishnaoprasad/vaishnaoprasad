@@ -50,10 +50,3 @@ Todo App focused for Android & Web Platforms.
 * **Ionic - Build iOS, Android & Web Apps with Ionic & Angular** course on Udemy
 * **Mobile Application Development Internship** from Semaconnect Systems
 
-**Please note:** Due to security concerns, it's generally not recommended to share links to personal Google Drive documents in a public repository like GitHub. You can consider alternative options like:
-
-  * Providing a brief description of the certificate content.
-  * Uploading a redacted version of the certificate (obscuring personal details).
-  * Linking to a portfolio website where you showcase your projects and achievements.
-
-I hope this enhanced version helps you create a comprehensive and informative README file!
