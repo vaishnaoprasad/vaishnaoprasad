@@ -12,7 +12,7 @@
 ** Projects**
 
 * **HyperMarket:**  An E-Commerce web application (check it out on [GitHub](https://github.com/vaishnaoprasad/HyperMarket)!)
-* **StreakIt:** A to-do app for Android and Web platforms (source code available on GitHub as well!)
+* **StreakIt:** A to-do app for Android and Web platforms (check it out on [GitHub](https://github.com/vaishnaoprasad/StreakIt)!)
 
 ** Learning & Growth**
 
