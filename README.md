@@ -8,7 +8,7 @@
 * Location: Bengaluru, India 560064
 
 **Social Links**
-* LinkedIn: [www.linkedin.com/in/vaishnao-prasad-90963116b]
+* LinkedIn: www.linkedin.com/in/vaishnao-prasad-90963116b
 
 ## SKILLS
 
